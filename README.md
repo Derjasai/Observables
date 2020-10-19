@@ -2,10 +2,10 @@
 
 ## Dentro de este repositorio se encontrara:
 ### Modelo de los problemas del libro: Quantum Computing for Computer Scientist
- 4.3.1
- 4.3.2
- 4.4.1
- 4.4.2
+ ### 4.3.1
+ ### 4.3.2
+ ### 4.4.1
+ ### 4.4.2
  
 incluye un test de las simulaciones para probarlas 
 
