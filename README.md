@@ -1,6 +1,6 @@
 # Observables
 
-## dentro de este repositorio se encontrara:
+## Dentro de este repositorio se encontrara:
 ### Modelo de los problemas del libro: Quantum Computing for Computer Scientist
  4.3.1
  4.3.2
